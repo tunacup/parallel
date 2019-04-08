@@ -53,7 +53,7 @@
     <div class="container">
       <div class="row">
         <div class="col-md-9 p-3">
-          <img class="img-fluid d-block" src="MAP.jpg">
+          <img class="img-fluid d-block" src="/home/mbmanasara/test/pic/MAP.jpg">
           <h1 class="mb-0"><br>Thammasat University Main Stadium</h1>
         </div>
         <div class="col-md-3 align-items-center d-flex justify-content-center p-3"> <a class="btn btn-primary btn-lg" href="https://www.google.com/maps/place/Thammasat+University+Main+Stadium/@14.0709931,100.6005372,15.54z/data=!4m5!3m4!1s0x30e27fe9967e8a67:0xdd189fcfb63464d1!8m2!3d14.0680295!4d100.5989125" target="_blank" > Get Location</a> </div>
