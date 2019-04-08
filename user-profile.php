@@ -55,7 +55,7 @@
     <div class="py-5">
     <div class="container">
       <div class="row">
-        <div class="col-md-3" style=""><img class="img-fluid d-block rounded-circle" src="si.png"></div>
+        <div class="col-md-3" style=""><img class="img-fluid d-block rounded-circle" src="/home/mbmanasara/test/pic/si.png"></div>
       </div>
     </div>
   </div>
