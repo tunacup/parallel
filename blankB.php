@@ -112,7 +112,7 @@
               </div>
             </div>
             <div class="tab-pane fade" id="tabtwo" role="tabpanel">
-              <p class="lead text-center">Please bring this QR-code to counter service within 30 minuits.</p><img class="img-fluid d-block mx-auto" src="DBee_QRcode.png">
+              <p class="lead text-center">Please bring this QR-code to counter service within 30 minuits.</p><img class="img-fluid d-block mx-auto" src="/home/mbmanasara/test/pic/DBee_QRcode.png">
             </div>
             <div class="tab-pane fade" id="tabthree" role="tabpanel">
               <p class="">Tab pane three. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
