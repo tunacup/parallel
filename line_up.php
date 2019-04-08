@@ -62,17 +62,17 @@
           <p class="mb-3"> KIDinaKORNER</p>
           <p class="mb-0">&nbsp;</p>
         </div>
-        <div class="col-6 col-lg-3 p-4"> <img class="img-fluid d-block mb-3 mx-auto" src="maroon_5.jpg" width="200" alt="Card image cap">
+        <div class="col-6 col-lg-3 p-4"> <img class="img-fluid d-block mb-3 mx-auto" src="https://sv1.picz.in.th/images/2019/04/08/tGFgH8.jpg" width="200" alt="Card image cap">
           <h4> <b>MAROON5</b></h4>
           <p class="mb-3">Interscope</p>
           <p class="mb-0">&nbsp;</p>
         </div>
-        <div class="col-6 col-lg-3 p-4"> <img class="img-fluid d-block mb-3 mx-auto" src="FallOutBoy.jpg" width="200">
+        <div class="col-6 col-lg-3 p-4"> <img class="img-fluid d-block mb-3 mx-auto" src="/home/mbmanasara/test/pic/FallOutBoy.jpg" width="200">
           <h4> <b>FALL OUT BOY</b></h4>
           <p class="mb-3">PAX AM</p>
           <p class="mb-0">&nbsp;</p>
         </div>
-        <div class="col-6 col-lg-3 p-4"> <img class="img-fluid d-block mb-3 mx-auto" src="taylorswift.jpg" width="200">
+        <div class="col-6 col-lg-3 p-4"> <img class="img-fluid d-block mb-3 mx-auto" src="/home/mbmanasara/test/pic/taylorswift.jpg" width="200">
           <h4> <b>TAYLOR SWIFT</b></h4>
           <p class="mb-3"> Big Machine</p>
           <p class="mb-0">&nbsp;</p>
@@ -88,22 +88,22 @@
         </div>
       </div>
       <div class="row" >
-        <div class="col-6 col-lg-3 p-4"> <img class="img-fluid d-block mb-3 mx-auto" src="thum-EXO.jpg" width="200" alt="Card image cap">
+        <div class="col-6 col-lg-3 p-4"> <img class="img-fluid d-block mb-3 mx-auto" src="/home/mbmanasara/test/pic/thum-EXO.jpg" width="200" alt="Card image cap">
           <h4> <b>EXO</b></h4>
           <p class="mb-3">SM Entertainment</p>
           <p class="mb-0">&nbsp;</p>
         </div>
-        <div class="col-6 col-lg-3 p-4"> <img class="img-fluid d-block mb-3 mx-auto" src="SUJU.jpg" width="200" alt="Card image cap">
+        <div class="col-6 col-lg-3 p-4"> <img class="img-fluid d-block mb-3 mx-auto" src="/home/mbmanasara/test/pic/SUJU.jpg" width="200" alt="Card image cap">
           <h4> <b>SUPER JUNIOR</b></h4>
           <p class="mb-3">SM Entertainment</p>
           <p class="mb-0" style="">&nbsp;</p>
         </div>
-        <div class="col-6 col-lg-3 p-4"> <img class="img-fluid d-block mb-3 mx-auto" src="NCTU.jpg" width="200" style="">
+        <div class="col-6 col-lg-3 p-4"> <img class="img-fluid d-block mb-3 mx-auto" src="/home/mbmanasara/test/pic/NCTU.jpg" width="200" style="">
           <h4> <b>NCT</b></h4>
           <p class="mb-3">SM Entertainment</p>
           <p class="mb-0">&nbsp;</p>
         </div>
-        <div class="col-6 col-lg-3 p-4"> <img class="img-fluid d-block mb-3 mx-auto" src="red-velvet.jpg" width="200">
+        <div class="col-6 col-lg-3 p-4"> <img class="img-fluid d-block mb-3 mx-auto" src="/home/mbmanasara/test/pic/red-velvet.jpg" width="200">
           <h4> <b>RED VELVET</b></h4>
           <p class="mb-3">SM Entertainment</p>
           <p class="mb-0">&nbsp;</p>
@@ -119,22 +119,22 @@
         </div>
       </div>
       <div class="row">
-        <div class="col-6 col-lg-3 p-4"> <img class="img-fluid d-block mb-3 mx-auto" src="ONEOK.jpg" width="200" alt="Card image cap">
+        <div class="col-6 col-lg-3 p-4"> <img class="img-fluid d-block mb-3 mx-auto" src="/home/mbmanasara/test/pic/ONEOK.jpg" width="200" alt="Card image cap">
           <h4> <b>ONE OK ROCK</b></h4>
           <p class="mb-3">A-Sketch</p>
           <p class="mb-0">&nbsp;</p>
         </div>
-        <div class="col-6 col-lg-3 p-4"> <img class="img-fluid d-block mb-3 mx-auto" src="AKB48.jpg" width="200" alt="Card image cap">
+        <div class="col-6 col-lg-3 p-4"> <img class="img-fluid d-block mb-3 mx-auto" src="/home/mbmanasara/test/pic/AKB48.jpg" width="200" alt="Card image cap">
           <h4> <b>AKB 48</b></h4>
           <p class="mb-3">Maru Music</p>
           <p class="mb-0">&nbsp;</p>
         </div>
-        <div class="col-6 col-lg-3 p-4"> <img class="img-fluid d-block mb-3 mx-auto" src="arashi (1).jpg" width="200">
+        <div class="col-6 col-lg-3 p-4"> <img class="img-fluid d-block mb-3 mx-auto" src="/home/mbmanasara/test/pic/arashi (1).jpg" width="200">
           <h4>ARASHI</h4>
           <p class="mb-3">J Storm </p>
           <p class="mb-0">&nbsp;</p>
         </div>
-        <div class="col-6 col-lg-3 p-4"> <img class="img-fluid d-block mb-3 mx-auto" src="KANJA8.jpg" width="200">
+        <div class="col-6 col-lg-3 p-4"> <img class="img-fluid d-block mb-3 mx-auto" src="/home/mbmanasara/test/pic/KANJA8.jpg" width="200">
           <h4> <b>KANJANI 8</b></h4>
           <p class="mb-3"> Teichiku Records</p>
           <p class="mb-0">&nbsp;</p>
