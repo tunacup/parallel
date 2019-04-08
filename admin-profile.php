@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css">
-  <link rel="stylesheet" href="/stylesheets/theme.css" type="text/css">
+  <link rel="stylesheet" href="theme.css" type="text/css">
 </head>
 
 <body >
@@ -49,7 +49,7 @@
   <div class="py-5" style="">
     <div class="container">
       <div class="row">
-        <div class="col-md-3" style=""><img class="img-fluid d-block rounded-circle" src="https://sv1.picz.in.th/images/2019/04/08/tGIJQk.jpg"></div>
+        <div class="col-md-3" style=""><img class="img-fluid d-block rounded-circle" src="ad.jpg"></div>
       </div>
     </div>
   </div>
