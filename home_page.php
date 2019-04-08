@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css">
-  <link rel="stylesheet" href="theme.css" type="text/css">
+  <link rel="stylesheet" href="/stylesheets/theme.css" type="text/css">
 </head>
 
 <body>
@@ -20,7 +20,7 @@
         </div>
       </div>
       <div class="row">
-        <div class="col-md-12 p-0"> <img class="img-fluid d-block" src="S__1368066.jpg" width="1500" > </div>
+        <div class="col-md-12 p-0"> <img class="img-fluid d-block" src="https://sv1.picz.in.th/images/2019/04/08/tGm56u.jpg" width="1500" > </div>
       </div>
     </div>
   </div>
