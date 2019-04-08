@@ -54,7 +54,7 @@
       <div class="row" style="">
         <div class="px-5 col-md-7 text-center mx-auto offset-md-1">
           <h3 class="text-primary display-4">DBee Music Festival&nbsp;</h3>
-          <img class="img-fluid d-block" src="S__1368066.jpg">
+          <img class="img-fluid d-block" src="/home/mbmanasara/test/pic/S__1368066.jpg">
           <h2 class="m-1">We are comming back!</h2>
           <p class="mb-3">DB Music Festival is the biggest internation music festival in the world, we have many famous singer and brand to perform at our festival.&nbsp;<br><br></p>
           <h1 class="text-warning">8 October 2018<br><br></h1>
