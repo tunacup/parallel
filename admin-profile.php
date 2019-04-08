@@ -49,7 +49,7 @@
   <div class="py-5" style="">
     <div class="container">
       <div class="row">
-        <div class="col-md-3" style=""><img class="img-fluid d-block rounded-circle" src="ad.jpg"></div>
+        <div class="col-md-3" style=""><img class="img-fluid d-block rounded-circle" src="https://sv1.picz.in.th/images/2019/04/08/tGIJQk.jpg"></div>
       </div>
     </div>
   </div>
