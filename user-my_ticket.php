@@ -62,7 +62,7 @@
           </ul>
           <div class="tab-content mt-2">
             <div class="tab-pane fade show active" id="tabone" role="tabpanel">
-              <p class="">THE 25th DBee Music Festival</p><img class="img-fluid d-block mx-auto" src="DBee_QRcode.png">
+              <p class="">THE 25th DBee Music Festival</p><img class="img-fluid d-block mx-auto" src="/home/mbmanasara/test/pic/DBee_QRcode.png">
             </div>
             <div class="tab-pane fade" id="tabtwo" role="tabpanel">
               <ul class="list-group">
