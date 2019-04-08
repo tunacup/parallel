@@ -62,7 +62,7 @@
   <div class="py-4" >
     <div class="container">
       <div class="row">
-        <div class="col-md-12"><img class="img-fluid d-block mx-auto" src="winner-2018-everywhere-tour-in-bangkok-seating.gif"></div>
+        <div class="col-md-12"><img class="img-fluid d-block mx-auto" src="https://sv1.picz.in.th/images/2019/04/08/tGF7tS.gif"></div>
       </div>
     </div>
   </div>
