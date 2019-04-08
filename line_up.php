@@ -57,7 +57,7 @@
         </div>
       </div>
       <div class="row">
-        <div class="col-6 col-lg-3 p-4"> <img class="img-fluid d-block mb-3 mx-auto" src="IMAGINE.jpg" width="200" alt="Card image cap">
+        <div class="col-6 col-lg-3 p-4"> <img class="img-fluid d-block mb-3 mx-auto" src="https://sv1.picz.in.th/images/2019/04/08/tGF4fW.jpg" width="200" alt="Card image cap">
           <h4> <b>IMAGINE DRAGON</b></h4>
           <p class="mb-3"> KIDinaKORNER</p>
           <p class="mb-0">&nbsp;</p>
